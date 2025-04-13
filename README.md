@@ -24,11 +24,17 @@ The following commands are only available on multiplayer:
 This mod also re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
 
 F3 + F = Fog
+
 F3 + U = Frustum, hold Shift to kill
+
 F3 + O = Frustum culling Octree
+
 F3 + E = SectionPath
+
 F3 + V = SectionVisibility
+
 F3 + L = SmartCull
+
 F3 + W = WireFrame
 
 To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button. I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
