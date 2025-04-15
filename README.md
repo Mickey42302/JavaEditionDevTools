@@ -45,6 +45,10 @@ F3 + W = WireFrame
 
 To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button. I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
 
+## Test Worlds
+
+The "Create Test World" button on the title screen can be used to quickly generate a world with settings that are designed to make testing easier.
+
 ## Installation
 
 To install this mod, place the JAR file in your "mods" directory. You must also install the Fabric API.
