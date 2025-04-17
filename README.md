@@ -5,7 +5,7 @@ In Java Edition, there are a bunch of development tools that are locked away by 
 
 The following commands are available on both singleplayer and multiplayer:
 
-• /chase
+• /chase (Learn more: https://www.youtube.com/watch?v=a2dVp0A3uwM)
 
 • /debugmobspawning (**Tip:** To see this command in action, use a Repeating Command Block and make sure that all players are a certain distance away).
 
