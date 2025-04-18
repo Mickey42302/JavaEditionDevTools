@@ -55,7 +55,7 @@ The "Create Test World" button on the title screen can be used to quickly genera
 
 To install this mod, place the JAR file in your "mods" directory. You must also install the Fabric API.
 
-*Note: Although the mod can be used on multiplayer, some features will only work if the server has the mod installed as well.*
+*Note: Although the mod can be used on multiplayer, some features will only work if the server has the mod installed as well. For servers that don't use Fabric, the development features can be enabled by overriding the "isDevelopment" flag to true.*
 
 ## Disclaimer
 
