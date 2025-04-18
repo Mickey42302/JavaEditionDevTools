@@ -1,6 +1,8 @@
 # Development Tools Patch (Java Edition)
 In Java Edition, there are a bunch of development tools that are locked away by default. This mod re-enables them, allowing you to get a look at what Mojang uses to develop the game!
 
+This mod is a rewrite of the original Dev Tools Unlocker mod (https://modrinth.com/mod/dev-tools-unlocker).
+
 ## Commands
 
 The following commands are available on both singleplayer and multiplayer:
