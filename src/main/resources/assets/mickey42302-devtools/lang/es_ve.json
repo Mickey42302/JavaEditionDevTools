@@ -36,4 +36,7 @@
   "debug.sectionvisibility.help": "F3 + V = Visibilidad de la sección",
   "debug.smartcull.help": "F3 + L = SmartCull",
   "debug.wireframe.help": "F3 + W = Estructura alámbrica",
+  "item.minecraft.tipped_arrow.effect.awkward": "Flecha con punta incómoda",
+  "item.minecraft.tipped_arrow.effect.mundane": "Flecha con punta mundana",
+  "item.minecraft.tipped_arrow.effect.thick": "Flecha de punta gruesa"
 }
