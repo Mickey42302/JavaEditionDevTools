@@ -35,5 +35,8 @@
   "debug.sectionpath.help": "F3 + E = SectionPath",
   "debug.sectionvisibility.help": "F3 + V = SectionVisibility",
   "debug.smartcull.help": "F3 + L = SmartCull",
-  "debug.wireframe.help": "F3 + W = WireFrame"
+  "debug.wireframe.help": "F3 + W = WireFrame",
+  "item.minecraft.tipped_arrow.effect.awkward": "Flèche maladroite à pointe",
+  "item.minecraft.tipped_arrow.effect.mundane": "Flèche à pointe banale",
+  "item.minecraft.tipped_arrow.effect.thick": "Flèche à pointe épaisse"
 }
