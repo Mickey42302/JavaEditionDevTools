@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "mickey42302-devtools",
+  "version": "${version}",
+  "name": "Development Tools Patch",
+  "description": "This mod unlocks the built-in development tools and provides other patches.",
+  "authors": [
+    "Mickey42302"
+  ],
+  "contact": {
+    "homepage": "https://linktr.ee/mickey42302",
+    "sources": "https://github.com/mickey42302"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/mickey42302-devtools/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mickey42302.devtools.DevToolsInit"
+    ],
+    "client": [
+      "com.mickey42302.devtools.DevToolsClient"
+    ]
+  },
+  "mixins": [
+    "mickey42302-devtools.mixins.json",
+    {
+      "config": "mickey42302-devtools.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
