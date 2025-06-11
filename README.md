@@ -25,6 +25,18 @@ The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
 
+## Sub-commands
+
+The following sub-commands are available on both singleplayer and multiplayer:
+
+• /test export <test>
+
+• /test exportclosest
+
+• /test exportthese
+
+• /test exportthat
+
 ## F3 Key Binds
 
 This mod also re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
