@@ -65,6 +65,10 @@ To make the debug renderers user-friendly, I added a menu that can be opened usi
 
 The "Create Test World" button on the title screen can be used to quickly generate a world with settings that are designed to make testing easier.
 
+## Logs
+
+When this patch is enabled, the game will print debug messages to the log files.
+
 ## Installation
 
 To install this mod, place the JAR file in your "mods" directory. You must also install the Fabric API.
