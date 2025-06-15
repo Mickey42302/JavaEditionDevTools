@@ -67,7 +67,7 @@ The "Create Test World" button on the title screen can be used to quickly genera
 
 ## Logs
 
-When this patch is enabled, the game will print debug messages to the log files.
+The game will print debug messages to the log files.
 
 ## Installation
 
