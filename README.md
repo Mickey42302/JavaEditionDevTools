@@ -37,6 +37,8 @@ The following sub-commands are available on both singleplayer and multiplayer:
 
 • /test exportthat
 
+Some of the export functions for the "/test" command are also available in the Test Instance Block. You can click "Export Structure" to trigger them.
+
 ## F3 Key Binds
 
 This mod also re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
