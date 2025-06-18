@@ -21,6 +21,8 @@ The following commands are available on both singleplayer and multiplayer:
 
 • /warden_spawn_tracker
 
+I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
+
 The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
@@ -41,11 +43,11 @@ Some of the export functions for the "/test" command are also available in the T
 
 ## F3 Key Binds
 
-This mod also re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
+This mod re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
 
 F3 + F = Fog
 
-F3 + U = Frustum, hold Shift to kill
+F3 + U = Frustum, hold shift to kill
 
 F3 + O = Frustum culling Octree
 
@@ -57,9 +59,13 @@ F3 + L = SmartCull
 
 F3 + W = WireFrame
 
+This mod also restores key binds that were removed from the game with small improvements. These can also be listed using the F3 + F7 key bind.
+
+F3 + R = Cycle render distance (shift to invert, alt to reset)
+
 ## Debug Renderers
 
-To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button. I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
+To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button.
 
 ## Test Worlds
 
