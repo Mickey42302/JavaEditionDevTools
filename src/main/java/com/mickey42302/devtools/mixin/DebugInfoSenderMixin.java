@@ -218,7 +218,6 @@ public abstract class DebugInfoSenderMixin {
     private static void devtools$sendGameEvent(World world, RegistryEntry<GameEvent> event, Vec3d pos, CallbackInfo ci) {
 
         if (world instanceof ServerWorld serverWorld) {
-
             event.getKey().ifPresent(key -> sendToAll(serverWorld, new DebugGameEventCustomPayload(key, pos)));
         }
 
