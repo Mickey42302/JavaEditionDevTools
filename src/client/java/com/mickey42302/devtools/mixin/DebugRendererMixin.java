@@ -84,10 +84,12 @@ public abstract class DebugRendererMixin {
     @Shadow
     @Final
     public GoalSelectorDebugRenderer goalSelectorDebugRenderer;
-
     @Shadow
     @Final
     public RedstoneUpdateOrderDebugRenderer redstoneUpdateOrderDebugRenderer;
+    @Shadow
+    @Final
+    public ChunkDebugRenderer chunkDebugRenderer;
 
     @Inject(method = {"<init>"}, at = {@At("TAIL")})
     private void devtools$init(MinecraftClient client, CallbackInfo ci) {
@@ -150,6 +152,8 @@ public abstract class DebugRendererMixin {
 
         DevToolsClient.addRenderer("debug.renderers.redstone_update_order", this.redstoneUpdateOrderDebugRenderer::render);
         Objects.requireNonNull(this.redstoneUpdateOrderDebugRenderer);
+
+        DevToolsClient.addRenderer("debug.renderers.chunk", this.chunkDebugRenderer::render);
+        Objects.requireNonNull(this.chunkDebugRenderer);
     }
 
-}
