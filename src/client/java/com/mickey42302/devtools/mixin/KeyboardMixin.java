@@ -7,8 +7,8 @@ import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.Keyboard;
 import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.gui.screen.Screen;
 import net.minecraft.text.Text;
-import net.minecraft.util.Formatting;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
@@ -17,18 +17,19 @@ import org.spongepowered.asm.mixin.injection.At;
 @Mixin({Keyboard.class})
 public abstract class KeyboardMixin {
 
-    @Shadow protected abstract void addDebugMessage(Formatting formatting, Text text);
+    @Shadow protected abstract void debugLog(Text text);
 
     @WrapOperation(method = {"onKey"}, at = {@At(value = "INVOKE", target = "Lnet/minecraft/client/Keyboard;processF3(I)Z")})
 
     private boolean devtools$f3Key(Keyboard keyboard, int key, Operation<Boolean> original) {
         if (key == 296) {
-            addDebugMessage(Formatting.YELLOW, Text.translatable("debug.developer_help.message"));
             assert MinecraftClient.getInstance().player != null;
+            this.debugLog(Text.translatable("debug.developer_help.message"));
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.sectionpath.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.fog.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.smartcull.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.frustum_culling_octree.help"), false);
+            MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.cycle_renderdistance.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.frustum.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.sectionvisibility.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.wireframe.help"), false);
@@ -37,6 +38,36 @@ public abstract class KeyboardMixin {
         }
         if (key == 295) {
             MinecraftClient.getInstance().setScreen(new DebugRenderersScreen());
+        }
+        if (key == 82) {
+            MinecraftClient client = MinecraftClient.getInstance();
+            Integer defaultViewDistance = 12;
+            Integer currentViewDistance = client.options.getViewDistance().getValue();
+            if (Screen.hasShiftDown()) {
+                assert MinecraftClient.getInstance().player != null;
+                if (currentViewDistance <= 31) {
+                    client.options.getViewDistance().setValue(currentViewDistance - 1);
+                } else {
+                    client.options.getViewDistance().setValue(2);
+                }
+                this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
+            }
+            else {
+                if (Screen.hasAltDown()) {
+                    assert MinecraftClient.getInstance().player != null;
+                    client.options.getViewDistance().setValue(defaultViewDistance);
+                    this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
+                }
+                else {
+                    assert MinecraftClient.getInstance().player != null;
+                    if (currentViewDistance <= 31) {
+                        client.options.getViewDistance().setValue(currentViewDistance + 1);
+                    } else {
+                        client.options.getViewDistance().setValue(2);
+                    }
+                    this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
+                }
+            }
         }
         return (processDebugKeys(key) || original.call(keyboard, key));
     }
