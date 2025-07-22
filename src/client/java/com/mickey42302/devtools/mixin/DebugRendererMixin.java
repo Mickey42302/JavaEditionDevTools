@@ -157,3 +157,4 @@ public abstract class DebugRendererMixin {
         Objects.requireNonNull(this.chunkDebugRenderer);
     }
 
+}
