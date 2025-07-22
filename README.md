@@ -79,7 +79,7 @@ The game will print debug messages to the log files.
 
 To install this mod, place the JAR file in your "mods" directory. You must also install the Fabric API.
 
-*Note: Although the mod can be used on multiplayer, some features will only work if the server has the mod installed as well. For servers that don't use Fabric, the development features can be enabled by overriding the "isDevelopment" flag to true.*
+*Note: Although the mod can be used on multiplayer, some features will only work if the server has the mod installed as well. For servers that don't use Fabric, the development features can be enabled by overriding the "isDevelopment" flag to true. Depending on what server engine you are using, you may need to override the "IS_RUNNING_IN_IDE" flag instead.*
 
 ## Disclaimer
 
