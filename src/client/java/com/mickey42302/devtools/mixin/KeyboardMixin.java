@@ -41,7 +41,6 @@ public abstract class KeyboardMixin {
         }
         if (key == 82) {
             MinecraftClient client = MinecraftClient.getInstance();
-            Integer defaultViewDistance = 12;
             Integer currentViewDistance = client.options.getViewDistance().getValue();
             if (Screen.hasShiftDown()) {
                 assert MinecraftClient.getInstance().player != null;
@@ -53,12 +52,6 @@ public abstract class KeyboardMixin {
                 this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
             }
             else {
-                if (Screen.hasAltDown()) {
-                    assert MinecraftClient.getInstance().player != null;
-                    client.options.getViewDistance().setValue(defaultViewDistance);
-                    this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
-                }
-                else {
                     assert MinecraftClient.getInstance().player != null;
                     if (currentViewDistance <= 31) {
                         client.options.getViewDistance().setValue(currentViewDistance + 1);
@@ -66,7 +59,6 @@ public abstract class KeyboardMixin {
                         client.options.getViewDistance().setValue(2);
                     }
                     this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
-                }
             }
         }
         return (processDebugKeys(key) || original.call(keyboard, key));
