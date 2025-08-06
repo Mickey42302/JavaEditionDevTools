@@ -40,7 +40,7 @@
   "death.attack.witherSkull.player": "%1$s was shot by a skull from %2$s",
   "death.fell.accident.ball": "%1$s fell while using an Ender Pearl",
   "death.fell.accident.water": "%1$s fell out of the water",
-  "debug.cycle_renderdistance.help": "F3 + R = Cycle render distance (shift to invert, alt to reset)",
+  "debug.cycle_renderdistance.help": "F3 + R = Cycle render distance (shift to invert)",
   "debug.cycle_renderdistance.message": "Render Distance: %1$s",
   "debug.developer_help.help": "F3 + F7 = Show this list",
   "debug.developer_help.message": "Developer key bindings:",
