@@ -40,7 +40,7 @@
   "death.attack.witherSkull.player": "%1$s a été touché par un crâne de %2$s",
   "death.fell.accident.ball": "%1$s est tombé en utilisant une Ender Pearl",
   "death.fell.accident.water": "%1$s est tombé hors de l'eau",
-  "debug.cycle_renderdistance.help": "F3 + R = Distance de rendu du cycle (Maj pour inverser, Alt pour réinitialiser)",
+  "debug.cycle_renderdistance.help": "F3 + R = Distance de rendu du cycle (Maj pour inverser)",
   "debug.cycle_renderdistance.message": "Distance de rendu : %1$s",
   "debug.developer_help.help": "F3 + F7 = Afficher cette liste",
   "debug.developer_help.message": "Raccourcis clavier du développeur:",
