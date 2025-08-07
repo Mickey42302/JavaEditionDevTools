@@ -59,7 +59,7 @@ F3 + L = SmartCull
 
 F3 + W = WireFrame
 
-This mod also restores key binds that were removed from the game with small improvements. These can also be listed using the F3 + F7 key bind.
+This mod also restores key binds that were removed from the game. These will be listed alongside the built-in key binds when the F3 + F7 key bind is used.
 
 F3 + R = Cycle render distance (shift to invert)
 
