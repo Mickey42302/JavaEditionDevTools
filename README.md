@@ -45,23 +45,23 @@ Some of the export functions for the "/test" command are also available in the T
 
 This mod re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
 
-F3 + F = Fog
+• F3 + F = Fog
 
-F3 + U = Frustum, hold shift to kill
+• F3 + U = Frustum, hold shift to kill
 
-F3 + O = Frustum culling Octree
+• F3 + O = Frustum culling Octree
 
-F3 + E = SectionPath
+• F3 + E = SectionPath
 
-F3 + V = SectionVisibility
+• F3 + V = SectionVisibility
 
-F3 + L = SmartCull
+• F3 + L = SmartCull
 
-F3 + W = WireFrame
+• F3 + W = WireFrame
 
 This mod also restores key binds that were removed from the game. These will be listed alongside the built-in key binds when the F3 + F7 key bind is used.
 
-F3 + R = Cycle render distance (shift to invert)
+• F3 + R = Cycle render distance (shift to invert)
 
 ## Debug Renderers
 
