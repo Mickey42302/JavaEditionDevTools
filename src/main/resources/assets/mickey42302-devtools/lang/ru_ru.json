@@ -40,8 +40,6 @@
   "death.attack.witherSkull.player": "%1$s был ранен черепом от %2$s",
   "death.fell.accident.ball": "%1$s упал, используя Жемчужину Эндера",
   "death.fell.accident.water": "%1$s выпал из воды",
-  "debug.cycle_renderdistance.help": "F3 + R = Циклическое изменение расстояния отрисовки (shift для инвертирования)",
-  "debug.cycle_renderdistance.message": "Расстояние отрисовки: %1$s",
   "debug.developer_help.help": "F3 + F7 = Показать этот список",
   "debug.developer_help.message": "Назначения клавиш разработчика:",
   "debug.fog.help": "F3 + F = Туман",

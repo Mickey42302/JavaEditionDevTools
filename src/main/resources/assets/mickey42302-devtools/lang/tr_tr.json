@@ -40,8 +40,6 @@
   "death.attack.witherSkull.player": "%1$s, %2$s'den gelen bir kafatası tarafından vuruldu",
   "death.fell.accident.ball": "%1$s, Ender İncisi kullanırken düştü",
   "death.fell.accident.water": "%1$s sudan düştü",
-  "debug.cycle_renderdistance.help": "F3 + R = Döngü oluşturma mesafesi (tersine çevirmek için kaydır)",
-  "debug.cycle_renderdistance.message": "Oluşturma Mesafesi: %1$s",
   "debug.developer_help.help": "F3 + F7 = Bu listeyi göster",
   "debug.developer_help.message": "Geliştirici tuş atamaları:",
   "debug.fog.help": "F3 + F = Sis",

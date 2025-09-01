@@ -40,8 +40,6 @@
   "death.attack.witherSkull.player": "%1$s recibió un disparo de una calavera de %2$s",
   "death.fell.accident.ball": "%1$s cayó mientras usaba una Perla de Ender",
   "death.fell.accident.water": "%1$s se cayó del agua",
-  "debug.cycle_renderdistance.help": "F3 + R = Distancia de renderizado circular (Mayús para invertir)",
-  "debug.cycle_renderdistance.message": "Distancia de renderizado: %1$s",
   "debug.developer_help.help": "F3 + F7 = Mostrar esta lista",
   "debug.developer_help.message": "Atajos de teclado para desarrolladores:",
   "debug.fog.help": "F3 + F = Niebla",

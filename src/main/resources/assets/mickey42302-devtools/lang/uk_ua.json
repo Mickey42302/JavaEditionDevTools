@@ -40,8 +40,6 @@
   "death.attack.witherSkull.player": "%1$s був поранений черепом від %2$s",
   "death.fell.accident.ball": "%1$s упав, використовуючи Перлину Краю",
   "death.fell.accident.water": "%1$s випав з води",
-  "debug.cycle_renderdistance.help": "F3 + R = Циклічна відстань рендерингу (shift для інвертування)",
-  "debug.cycle_renderdistance.message": "Відстань рендерингу: %1$s",
   "debug.developer_help.help": "F3 + F7 = Показати цей список",
   "debug.developer_help.message": "Прив'язки клавіш розробника:",
   "debug.fog.help": "F3 + F = Туман",
