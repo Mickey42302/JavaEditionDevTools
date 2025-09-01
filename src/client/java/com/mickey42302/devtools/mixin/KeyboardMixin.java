@@ -29,7 +29,6 @@ public abstract class KeyboardMixin {
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.fog.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.smartcull.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.frustum_culling_octree.help"), false);
-            MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.cycle_renderdistance.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.frustum.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.sectionvisibility.help"), false);
             MinecraftClient.getInstance().player.sendMessage(Text.translatable("debug.wireframe.help"), false);
@@ -38,28 +37,6 @@ public abstract class KeyboardMixin {
         }
         if (key == 295) {
             MinecraftClient.getInstance().setScreen(new DebugRenderersScreen());
-        }
-        if (key == 82) {
-            MinecraftClient client = MinecraftClient.getInstance();
-            Integer currentViewDistance = client.options.getViewDistance().getValue();
-            if (Screen.hasShiftDown()) {
-                assert MinecraftClient.getInstance().player != null;
-                if (currentViewDistance <= 31) {
-                    client.options.getViewDistance().setValue(currentViewDistance - 1);
-                } else {
-                    client.options.getViewDistance().setValue(2);
-                }
-                this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
-            }
-            else {
-                    assert MinecraftClient.getInstance().player != null;
-                    if (currentViewDistance <= 31) {
-                        client.options.getViewDistance().setValue(currentViewDistance + 1);
-                    } else {
-                        client.options.getViewDistance().setValue(2);
-                    }
-                    this.debugLog(Text.translatable("debug.cycle_renderdistance.message", currentViewDistance.toString()));
-            }
         }
         return (processDebugKeys(key) || original.call(keyboard, key));
     }
