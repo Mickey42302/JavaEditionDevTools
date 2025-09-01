@@ -59,10 +59,6 @@ This mod re-enables the developer F3 key binds. To see a list of them in game, y
 
 • F3 + W = WireFrame
 
-This mod also restores key binds that were removed from the game. These will be listed alongside the built-in key binds when the F3 + F7 key bind is used.
-
-• F3 + R = Cycle render distance (shift to invert)
-
 ## Debug Renderers
 
 To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button.
