@@ -39,7 +39,9 @@ The following sub-commands are available on both singleplayer and multiplayer:
 
 • /test exportthat
 
-Some of the export functions for the "/test" command are also available in the Test Instance Block. You can click "Export Structure" to trigger them.
+## Test Instance Blocks
+
+This mod re-enables the "Export Structure" option in Test Instance Blocks. This option can be used to export data to an SNBT file within the "Minecraft.Server" directory.
 
 ## F3 Key Binds
 
