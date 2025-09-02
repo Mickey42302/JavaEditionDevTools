@@ -43,6 +43,14 @@ The following sub-commands are available on both singleplayer and multiplayer:
 
 This mod re-enables the "Export Structure" option in Test Instance Blocks. This option can be used to export data to an SNBT file within the "Minecraft.Server" directory.
 
+## Exports
+
+Structure data that has been exported to an SNBT file is able to be loaded across different worlds. This can be done using a Structure Block or the "/place" command.
+
+For example, to place a structure that has been exported to an SNBT file named "cookies", the following command can be used:
+
+• /place template minecraft:minecraft/structure/cookies
+
 ## F3 Key Binds
 
 This mod re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
