@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Nəzarətçi kürü izləyicisi %1$s oyunçu üçün təmizləndi",
+  "commands.warden_spawn_tracker.clear.success.single": "Nəzarətçi kürü izləyicisi %1$s üçün təmizləndi",
+  "commands.warden_spawn_tracker.set.success.multiple": "Nəzarətçi kürü izləyicisi %1$s oyunçu üçün yeniləndi",
+  "commands.warden_spawn_tracker.set.success.single": "Nəzarətçi kürü izləyicisi %1$s üçün yeniləndi"
+}

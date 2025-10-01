@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Trekier z'jaŭlennia vartaŭnikoŭ ačyščany dla %1$s gułʹcoŭ",
+  "commands.warden_spawn_tracker.clear.success.single": "Trekier z'jaŭlennia vartaŭnikoŭ ačyščany dla %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Trekier z'jaŭlennia vartaŭnikoŭ abnoŭleny dla %1$s gułʹcoŭ",
+  "commands.warden_spawn_tracker.set.success.single": "Trekier z'jaŭlennia vartaŭnikoŭ abnoŭleny dla %1$s gułʹcoŭ"
+}

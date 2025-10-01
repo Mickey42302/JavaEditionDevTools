@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Трэкер з'яўлення вартаўнікоў ачышчаны для %1$s гульцоў",
+  "commands.warden_spawn_tracker.clear.success.single": "Трэкер з'яўлення вартаўнікоў ачышчаны для %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Трэкер з'яўлення вартаўнікоў абноўлены для %1$s гульцоў",
+  "commands.warden_spawn_tracker.set.success.single": "Трэкер з'яўлення вартаўнікоў абноўлены для %1$s гульцоў"
+}

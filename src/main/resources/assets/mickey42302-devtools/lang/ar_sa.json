@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "تم مسح متتبع ظهور الحارس لـ %1$s لاعبًا",
+  "commands.warden_spawn_tracker.clear.success.single": "تم مسح متتبع ظهور الحارس لـ %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "تم تحديث متتبع ظهور الحارس لـ %1$s لاعبًا",
+  "commands.warden_spawn_tracker.set.success.single": "تم تحديث متتبع ظهور الحارس لـ %1$s"
+}

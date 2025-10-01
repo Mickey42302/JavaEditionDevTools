@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Vagtens spawn-tracker er blevet ryddet for %1$s spillere",
+  "commands.warden_spawn_tracker.clear.success.single": "Vagtens spawn-tracker er blevet ryddet for %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Vagtens spawn-tracker er blevet opdateret for %1$s spillere",
+  "commands.warden_spawn_tracker.set.success.single": "Vagtens spawn-tracker er blevet opdateret for %1$s"
+}

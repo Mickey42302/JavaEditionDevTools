@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "El rastrejador d'aparició de guardes s'ha esborrat per a %1$s jugadors",
+  "commands.warden_spawn_tracker.clear.success.single": "El rastrejador d'aparició de guardes s'ha esborrat per a %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "El rastrejador d'aparició de guardes s'ha actualitzat per a %1$s jugadors",
+  "commands.warden_spawn_tracker.set.success.single": "El rastrejador d'aparició de guardes s'ha actualitzat per a %1$s"
+}

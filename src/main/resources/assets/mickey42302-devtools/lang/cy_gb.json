@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Mae'r olrheinydd silio warden wedi'i glirio ar gyfer %1$s chwaraewyr",
+  "commands.warden_spawn_tracker.clear.success.single": "Mae'r olrheinydd silio warden wedi'i glirio ar gyfer %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Mae'r olrheinydd silio warden wedi'i ddiweddaru ar gyfer %1$s chwaraewyr",
+  "commands.warden_spawn_tracker.set.success.single": "Mae'r olrheinydd silio warden wedi'i ddiweddaru ar gyfer %1$s"
+}

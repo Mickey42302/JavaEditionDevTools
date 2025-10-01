@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Die bewaarder-spawn-opsporer is vir %1$s spelers skoongemaak",
+  "commands.warden_spawn_tracker.clear.success.single": "Die bewaarder-spawn-opsporer is vir %1$s skoongemaak",
+  "commands.warden_spawn_tracker.set.success.multiple": "Die bewaarder-spawn-opsporer is vir %1$s spelers opgedateer",
+  "commands.warden_spawn_tracker.set.success.single": "Die bewaarder-spawn-opsporer is vir %1$s opgedateer"
+}

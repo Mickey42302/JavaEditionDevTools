@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "┴ɥǝ ʍɐɹpǝu sdɐʍu ʇɹɐɔʞǝɹ ɥɐs qǝǝu ɔlǝɐɹǝp ɟoɹ %1$s dlɐʎǝɹs",
+  "commands.warden_spawn_tracker.clear.success.single": "┴ɥǝ ʍɐɹpǝu sdɐʍu ʇɹɐɔʞǝɹ ɥɐs qǝǝu ɔlǝɐɹǝp ɟoɹ %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "┴ɥǝ ʍɐɹpǝu sdɐʍu ʇɹɐɔʞǝɹ ɥɐs qǝǝu ndpɐʇǝp ɟoɹ %1$s dlɐʎǝɹs",
+  "commands.warden_spawn_tracker.set.success.single": "┴ɥǝ ʍɐɹpǝu sdɐʍu ʇɹɐɔʞǝɹ ɥɐs qǝǝu ndpɐʇǝp ɟoɹ %1$s"
+}

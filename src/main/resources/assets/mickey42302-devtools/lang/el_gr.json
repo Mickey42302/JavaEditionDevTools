@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Ο ιχνηλάτης εμφάνισης φύλακα έχει διαγραφεί για %1$s παίκτες",
+  "commands.warden_spawn_tracker.clear.success.single": "Ο ιχνηλάτης εμφάνισης φύλακα έχει διαγραφεί για %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Ο ιχνηλάτης εμφάνισης φύλακα έχει ενημερωθεί για %1$s παίκτες",
+  "commands.warden_spawn_tracker.set.success.single": "Ο ιχνηλάτης εμφάνισης φύλακα έχει ενημερωθεί για %1$s"
+}

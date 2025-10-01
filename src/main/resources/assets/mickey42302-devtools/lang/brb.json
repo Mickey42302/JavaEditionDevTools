@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "De warden spawn tracker is leeggemaakt voor %1$s spelers",
+  "commands.warden_spawn_tracker.clear.success.single": "De warden spawn tracker is leeggemaakt voor %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "De warden spawn tracker is aangepast voor %1$s spelers",
+  "commands.warden_spawn_tracker.set.success.single": "De warden spawn tracker is aangepast voor %1$s"
+}

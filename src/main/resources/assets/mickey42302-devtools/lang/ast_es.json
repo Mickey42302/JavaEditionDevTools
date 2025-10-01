@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "El rastreador d'espardimientu del guardián foi desactiváu pa %1$s de xugadores",
+  "commands.warden_spawn_tracker.clear.success.single": "El rastreador d'espardimientu del alcalde foi desactiváu por %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "El rastreador d'espardimientu del guardián foi actualizáu pa %1$s de xugadores",
+  "commands.warden_spawn_tracker.set.success.single": "El rastreador d'espardimientu del alcalde foi actualizáu por %1$s"
+}

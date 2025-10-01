@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple" : "Diverket eo bet an heulier spawn warden evit %1$s c'hoarier",
+  "commands.warden_spawn_tracker.clear.success.single" : "Diverket eo bet an heulier spawn warden evit %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple" : "Hizivaet eo bet an heulier spawn warden evit %1$s c'hoarier",
+  "commands.warden_spawn_tracker.set.success.single" : "Hizivaet eo bet heulier spawn ar warden evit %1$s"
+}
