@@ -3,11 +3,9 @@ In Java Edition, there are a bunch of development tools that are locked away by 
 
 This mod is a rewrite of the original Dev Tools Unlocker mod (https://modrinth.com/mod/dev-tools-unlocker).
 
-## Commands
+## Developer Commands
 
 The following commands are available on both singleplayer and multiplayer:
-
-• /chase (**Learn more:** https://www.youtube.com/watch?v=a2dVp0A3uwM)
 
 • /debugmobspawning (**Learn more:** https://youtube.com/watch?v=ZWrxKFf1Xx4)
 
@@ -26,6 +24,16 @@ I've also made the "/warden_spawn_tracker" command user-friendly by adding the m
 The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
+
+*Tip: The developer commands can be enabled on a vanilla server using the "DEV_COMMANDS" debug property.*
+
+## Disabled Commands
+
+The following commands are available on both singleplayer and multiplayer:
+
+• /chase (**Learn more:** https://www.youtube.com/watch?v=a2dVp0A3uwM)
+
+*Tip: The "/chase" command can be enabled on a vanilla server using the "CHASE_COMMAND" debug property.*
 
 ## Sub-commands
 
@@ -50,28 +58,6 @@ Structure data that has been exported to an SNBT file is able to be loaded acros
 For example, to place a structure that has been exported to an SNBT file named "cookies", the following command can be used:
 
 • /place template minecraft:minecraft/structure/cookies
-
-## F3 Key Binds
-
-This mod re-enables the developer F3 key binds. To see a list of them in game, you can use the F3 + F7 key bind I added.
-
-• F3 + F = Fog
-
-• F3 + U = Frustum, hold shift to kill
-
-• F3 + O = Frustum culling Octree
-
-• F3 + E = SectionPath
-
-• F3 + V = SectionVisibility
-
-• F3 + L = SmartCull
-
-• F3 + W = WireFrame
-
-## Debug Renderers
-
-To make the debug renderers user-friendly, I added a menu that can be opened using F3 + F6. To toggle a debug renderer, click on the respective button.
 
 ## Test Worlds
 
