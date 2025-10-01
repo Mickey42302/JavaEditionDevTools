@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple" : "%1$s оонньооччуларга харабыл спаун трекера ыраастанна",
+  "commands.warden_spawn_tracker.clear.success.single" : "Уорден спаун трекера %1$s ыраастанна",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s оонньооччуларга анаан харабыл спаун трекерэ саҥардыллыбыт",
+  "commands.warden_spawn_tracker.set.success.single" : "Уорден спаун трекерэ %1$s саҥардыллыбыт"
+}

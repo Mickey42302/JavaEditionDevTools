@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Sargiem paredzēto spēļu izsekošanas rīks ir notīrīts %1$s spēlētājiem",
+  "commands.warden_spawn_tracker.clear.success.single": "Sargiem paredzēto spēļu izsekošanas rīks ir notīrīts %1$s spēlētājiem",
+  "commands.warden_spawn_tracker.set.success.multiple": "Sargiem paredzēto spēļu izsekošanas rīks ir atjaunināts %1$s spēlētājiem",
+  "commands.warden_spawn_tracker.set.success.single": "Sargiem paredzēto spēļu izsekošanas rīks ir atjaunināts %1$s spēlētājiem"
+}

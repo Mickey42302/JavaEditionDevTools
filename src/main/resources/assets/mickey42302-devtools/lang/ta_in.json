@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s வீரர்களுக்கான வார்டன் ஸ்பான் டிராக்கர் அழிக்கப்பட்டது",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s வீரர்களுக்கான வார்டன் ஸ்பான் டிராக்கர் அழிக்கப்பட்டது",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s வீரர்களுக்கான வார்டன் ஸ்பான் டிராக்கர் புதுப்பிக்கப்பட்டது",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s வீரர்களுக்கான வார்டன் ஸ்பான் டிராக்கர் புதுப்பிக்கப்பட்டது"
+}

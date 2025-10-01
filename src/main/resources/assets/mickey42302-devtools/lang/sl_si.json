@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Sledilnik pojavljanja čuvajev je bil počiščen za %1$s igralcev",
+  "commands.warden_spawn_tracker.clear.success.single": "Sledilnik pojavljanja čuvajev je bil počiščen za %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Sledilnik pojavljanja čuvajev je bil posodobljen za %1$s igralcev",
+  "commands.warden_spawn_tracker.set.success.single": "Sledilnik pojavljanja čuvajev je bil posodobljen za %1$s"
+}

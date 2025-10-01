@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "It-tracker tal-ispawn tal-gwardjani tneħħa għal %1$s plejers",
+  "commands.warden_spawn_tracker.clear.success.single": "It-tracker tal-ispawn tal-gwardjani tneħħa għal %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "It-tracker tal-ispawn tal-gwardjani ġie aġġornat għal %1$s plejers",
+  "commands.warden_spawn_tracker.set.success.single": "It-tracker tal-ispawn tal-gwardjani ġie aġġornat għal %1$s"
+}

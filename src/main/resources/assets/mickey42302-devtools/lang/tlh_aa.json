@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Warden tlhagh tracker chenmoHbogh %1$s qo'pu'vaD pup",
+  "commands.warden_spawn_tracker.clear.success.single": "Warden tlhagh tracker chenmoHbogh %1$s 'oH",
+  "commands.warden_spawn_tracker.set.success.multiple": "Warden tlhagh tracker chu'choHbogh %1$s qo'pu'vaD pup",
+  "commands.warden_spawn_tracker.set.success.single": "Warden tlhagh tracker chu'choHbogh %1$s 'oH"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s 人のプレイヤーのウォーデンスポーントラッカーがクリアされました",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s 人のプレイヤーのウォーデンスポーントラッカーがクリアされました",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s 人のプレイヤーのウォーデンスポーントラッカーが更新されました",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s 人のプレイヤーのウォーデンスポーントラッカーが更新されました"
+}

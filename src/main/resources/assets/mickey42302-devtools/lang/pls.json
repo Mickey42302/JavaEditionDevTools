@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Ja̱a̱n mbo̱ ns'a̱a̱n xi̱ta̱a̱n mma̱ na̱nka̱n nza̱a̱n %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "Ja̱a̱n mbo̱ ns'a̱a̱n xi̱ta̱a̱n mma̱ na̱nka̱n nza̱a̱n %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Kua̱'a̱ jo̱o̱ ns'a̱a̱n xi̱ta̱a̱n mma̱ na̱nka̱n nza̱a̱n %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "Kua̱'a̱ jo̱o̱ ns'a̱a̱n xi̱ta̱a̱n mma̱ na̱nka̱n nza̱a̱n %1$s"
+}

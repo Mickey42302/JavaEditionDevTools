@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "ตัวติดตามการเกิดของ Warden ได้รับการเคลียร์สำหรับผู้เล่น %1$s คนแล้ว",
+  "commands.warden_spawn_tracker.clear.success.single": "ตัวติดตามการเกิดของ Warden ได้รับการเคลียร์สำหรับผู้เล่น %1$s คนแล้ว",
+  "commands.warden_spawn_tracker.set.success.multiple": "ตัวติดตามการเกิดของ Warden ได้รับการอัปเดตสำหรับผู้เล่น %1$s คนแล้ว",
+  "commands.warden_spawn_tracker.set.success.single": "ตัวติดตามการเกิดของ Warden ได้รับการอัปเดตสำหรับผู้เล่น %1$s คนแล้ว"
+}

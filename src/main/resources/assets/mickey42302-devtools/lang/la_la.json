@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Index originum custodum pro %1$s lusoribus purgatus est",
+  "commands.warden_spawn_tracker.clear.success.single": "Index originum custodum pro %1$s purgatus est",
+  "commands.warden_spawn_tracker.set.success.multiple": "Index originum custodum pro %1$s lusoribus renovatus est",
+  "commands.warden_spawn_tracker.set.success.single": "Index originum custodum pro %1$s renovatus est"
+}

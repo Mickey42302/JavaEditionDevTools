@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Dä Warden-Spawn-Tracker is jeklärt woode för %1$s Spijeler",
+  "commands.warden_spawn_tracker.clear.success.single": "Dä Warden-Spawn-Tracker is jeklärt woode för %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Dä Warden-Spawn-Tracker is jeändert woode för %1$s Spijeler",
+  "commands.warden_spawn_tracker.set.success.single": "Dä Warden-Spawn-Tracker is jeändert woode för %1$s"
+}

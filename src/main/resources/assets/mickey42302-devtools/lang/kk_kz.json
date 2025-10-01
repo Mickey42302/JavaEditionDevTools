@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s ойыншысы үшін бақылаушы уылдырық бақылаушысы тазартылды",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s үшін бақылаушы уылдырық бақылаушысы тазартылды",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s ойыншысы үшін сақшы уылдырық бақылаушысы жаңартылды",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s үшін сақшы уылдырық бақылаушысы жаңартылды"
+}

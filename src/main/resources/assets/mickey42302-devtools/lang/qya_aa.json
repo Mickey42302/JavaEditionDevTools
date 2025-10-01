@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "i warden spawn tracker has been latina an %1$s players",
+  "commands.warden_spawn_tracker.clear.success.single": "i warden spawn tracker has been latina an %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "i warden spawn tracker has been updated an %1$s players",
+  "commands.warden_spawn_tracker.set.success.single": "i warden spawn tracker has been updated an %1$s"
+}

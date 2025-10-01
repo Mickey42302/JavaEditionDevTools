@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Ich'ojbil xa'ox batel li ajkontraetik ta skoj muk'tik ta %1$s viniketik",
+  "commands.warden_spawn_tracker.clear.success.single": "Ich'ojbil xa'ox batel li ajkontraetik ta skoj muk'tik ta %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Ak'bil xa'ox ta kuxlejal li ajkontraetik ta skoj muk'tik ta %1$s viniketik",
+  "commands.warden_spawn_tracker.set.success.single": "Ak'bil xa'ox ta kuxlejal li ajkontraetik ta skoj muk'tik ta %1$s"
+}

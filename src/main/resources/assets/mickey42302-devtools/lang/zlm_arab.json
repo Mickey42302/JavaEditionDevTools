@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Penjejak spawn warden telah dikosongkan untuk %1$s pemain",
+  "commands.warden_spawn_tracker.clear.success.single": "Penjejak benih warden telah dikosongkan selama %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Penjejak spawn warden telah dikemas kini untuk %1$s pemain",
+  "commands.warden_spawn_tracker.set.success.single": "Penjejak spawn warden telah dikemas kini untuk %1$s"
+}

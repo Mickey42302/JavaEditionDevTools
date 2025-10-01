@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple" : "Lo seguiment d'espandiment del gardian es estat escafat per %1$s jogaires",
+  "commands.warden_spawn_tracker.clear.success.single" : "Lo seguidor d'espandiment del gardian es estat escafat per %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple" : "Lo seguidor d'espandiment del gardian es estat mes a jorn per %1$s jogaires",
+  "commands.warden_spawn_tracker.set.success.single" : "Lo seguidor d'espandiment del gardian es estat mes a jorn per %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Urmăritorul de apariții ale gardienilor a fost șters pentru %1$s jucători",
+  "commands.warden_spawn_tracker.clear.success.single": "Urmăritorul de apariții ale gardienilor a fost șters pentru %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Urmăritorul de apariții ale gardienilor a fost actualizat pentru %1$s jucători",
+  "commands.warden_spawn_tracker.set.success.single": "Urmăritorul de apariții ale gardienilor a fost actualizat pentru %1$s"
+}

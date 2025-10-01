@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "已为 %1$s 位玩家清除守望者刷新追踪器",
+  "commands.warden_spawn_tracker.clear.success.single": "已为 %1$s 位玩家清除守望者刷新追踪器",
+  "commands.warden_spawn_tracker.set.success.multiple": "已为 %1$s 位玩家更新守望者刷新追踪器",
+  "commands.warden_spawn_tracker.set.success.single": "已为 %1$s 位玩家更新守望者刷新追踪器"
+}

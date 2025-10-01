@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Trình theo dõi điểm xuất hiện của Warden đã được xóa cho %1$s người chơi",
+  "commands.warden_spawn_tracker.clear.success.single": "Trình theo dõi điểm xuất hiện của Warden đã được xóa cho %1$s người chơi",
+  "commands.warden_spawn_tracker.set.success.multiple": "Trình theo dõi điểm xuất hiện của Warden đã được cập nhật cho %1$s người chơi",
+  "commands.warden_spawn_tracker.set.success.single": "Trình theo dõi điểm xuất hiện của Warden đã được cập nhật cho %1$s người chơi"
+}

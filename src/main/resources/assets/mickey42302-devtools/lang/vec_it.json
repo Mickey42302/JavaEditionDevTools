@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple" : "El warden spawn tracker el xe stà cancełà par %1$s xugadori",
+  "commands.warden_spawn_tracker.clear.success.single" : "El warden spawn tracker el xe stà cancełà par %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple" : "El warden spawn tracker el xe stà ajornà par %1$s xugadori",
+  "commands.warden_spawn_tracker.set.success.single" : "El warden spawn tracker el xe stà ajornà par %1$s"
+}

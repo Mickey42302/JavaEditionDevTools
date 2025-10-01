@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Sledovač objavenia sa strážcu bol vymazaný pre %1$s hráčov",
+  "commands.warden_spawn_tracker.clear.success.single": "Sledovač objavenia sa strážcu bol vymazaný pre %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Sledovač objavenia sa strážcu bol aktualizovaný pre %1$s hráčov",
+  "commands.warden_spawn_tracker.set.success.single": "Sledovač objavenia sa strážcu bol aktualizovaný pre %1$s"
+}

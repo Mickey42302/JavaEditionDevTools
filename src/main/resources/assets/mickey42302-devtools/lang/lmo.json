@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "El tracker de spawn del warden l’è stà cancelà per i giucadur de %1$",
+  "commands.warden_spawn_tracker.clear.success.single": "El tracker de spawn del warden l’è stà cancelà per %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "El tracker de spawn del warden l’è stà agiurnà per i giucadur de %1$",
+  "commands.warden_spawn_tracker.set.success.single": "El tracker de spawn del guardian l’è stà agiurnà per %1$s"
+}

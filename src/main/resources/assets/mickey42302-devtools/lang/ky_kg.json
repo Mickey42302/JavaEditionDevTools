@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Кароолчу спраун трекери %1$s оюнчусу үчүн тазаланды",
+  "commands.warden_spawn_tracker.clear.success.single": "Кароолчу спраун трекери %1$s үчүн тазаланды",
+  "commands.warden_spawn_tracker.set.success.multiple": "Кароолчу спраун трекери %1$s оюнчусу үчүн жаңыртылды",
+  "commands.warden_spawn_tracker.set.success.single": "Кароолчунун упай трекери %1$s үчүн жаңыртылган"
+}

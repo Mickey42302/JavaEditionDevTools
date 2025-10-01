@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Следачот за појавување на чувари е исчистен за %1$s играчи",
+  "commands.warden_spawn_tracker.clear.success.single": "Следачот за појавување на чувари е исчистен за %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Следачот за појавување на чувари е ажуриран за %1$s играчи",
+  "commands.warden_spawn_tracker.set.success.single": "Следачот за појавување на чувари е ажуриран за %1$s"
+}

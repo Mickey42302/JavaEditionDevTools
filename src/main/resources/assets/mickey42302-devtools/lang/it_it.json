@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Il tracker di spawn del guardiano è stato ripulito per %1$s giocatori",
+  "commands.warden_spawn_tracker.clear.success.single": "Il tracker di spawn del guardiano è stato ripulito per %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Il tracker di spawn del guardiano è stato aggiornato per %1$s giocatori",
+  "commands.warden_spawn_tracker.set.success.single": "Il tracker di spawn del guardiano è stato aggiornato per %1$s"
+}

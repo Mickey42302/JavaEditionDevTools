@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Lo warden spawn trackero clera estato para %1$s playero",
+  "commands.warden_spawn_tracker.clear.success.single": "Lo warden spawn trackero clera estato para %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Lo warden spawn trackero update estato para %1$s playero",
+  "commands.warden_spawn_tracker.set.success.single": "Lo warden spawn trackero update estato para %1$s"
+}

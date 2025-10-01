@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s тоглуулагчийн хамгаалагчийн үржүүлэгчийг устгасан",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s харгалзагч түрсийг хянах төхөөрөмж арилсан",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s тоглогчид зориулсан харгалзагч үржүүлэгчийг шинэчилсэн",
+  "commands.warden_spawn_tracker.set.success.single": "Харуулын үржүүлэгчийг %1$s шинэчилсэн"
+}

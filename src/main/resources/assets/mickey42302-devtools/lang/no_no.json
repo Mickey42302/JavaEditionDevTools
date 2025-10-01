@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Vaktens spawn-sporing er fjernet for %1$s spillere",
+  "commands.warden_spawn_tracker.clear.success.single": "Vaktens spawn-sporing er fjernet for %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Vaktens spawn-sporing er oppdatert for %1$s spillere",
+  "commands.warden_spawn_tracker.set.success.single": "Vaktens spawn-sporing er oppdatert for %1$s"
+}

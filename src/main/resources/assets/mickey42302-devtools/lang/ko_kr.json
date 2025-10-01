@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s명의 플레이어를 위한 감시자 생성 추적기가 해제되었습니다.",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s명의 플레이어를 위한 감시자 생성 추적기가 해제되었습니다.",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s명의 플레이어를 위한 감시자 생성 추적기가 업데이트되었습니다.",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s명의 플레이어를 위한 감시자 생성 추적기가 업데이트되었습니다."
+}

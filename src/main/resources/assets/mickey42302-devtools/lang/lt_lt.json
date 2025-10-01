@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s žaidėjų sargo neršto seklys išvalytas",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s žaidėjų sargo neršto seklys išvalytas",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s žaidėjų sargo neršto seklys atnaujintas",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s žaidėjų sargo neršto seklys atnaujintas"
+}

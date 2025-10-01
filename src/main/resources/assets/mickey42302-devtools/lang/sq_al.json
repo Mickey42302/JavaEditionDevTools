@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Gjurmuesi i shfaqjes së rojes është pastruar për %1$s lojtarë",
+  "commands.warden_spawn_tracker.clear.success.single": "Gjurmuesi i shfaqjes së rojes është pastruar për %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Gjurmuesi i shfaqjes së rojes është përditësuar për %1$s lojtarë",
+  "commands.warden_spawn_tracker.set.success.single": "Gjurmuesi i shfaqjes së rojes është përditësuar për %1$s"
+}

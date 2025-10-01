@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "ຕົວຕິດຕາມການວາງໄຂ່ຂອງ warden ໄດ້ຖືກລຶບລ້າງສຳລັບຜູ້ຫຼິ້ນ %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "ຕົວຕິດຕາມການວາງໄຂ່ຂອງ warden ໄດ້ຖືກລຶບລ້າງໄປແລ້ວ %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "ຕົວຕິດຕາມການວາງໄຂ່ຂອງ warden ໄດ້ຮັບການອັບເດດສໍາລັບຜູ້ຫຼິ້ນ %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "ຕົວຕິດຕາມການວາງໄຂ່ຂອງ warden ໄດ້ຖືກອັບເດດເປັນ %1$s"
+}

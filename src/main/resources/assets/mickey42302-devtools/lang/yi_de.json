@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "דער וואָרדן ספּאָן טרעקער איז געוואָרן אויסגעמעקט פֿאַר %1$s שפּילער",
+  "commands.warden_spawn_tracker.clear.success.single": "דער וואָרדן ספּאָן טרעקער איז געוואָרן אויסגעמעקט פֿאַר %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "דער וואָרדן ספּאָן טרעקער איז געוואָרן אַפּדייטעד פֿאַר %1$s שפּילער",
+  "commands.warden_spawn_tracker.set.success.single": "דער וואָרדן ספּאָן טרעקער איז געוואָרן אַפּדייטעד פֿאַר %1$s"
+}

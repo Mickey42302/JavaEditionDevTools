@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Fjöldaskráning varðstjóra hefur verið hreinsuð fyrir %1$s leikmenn",
+  "commands.warden_spawn_tracker.clear.success.single": "Fjöldaskráning varðstjóra hefur verið hreinsuð fyrir %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Fjöldaskráning varðstjóra hefur verið uppfærð fyrir %1$s leikmenn",
+  "commands.warden_spawn_tracker.set.success.single": "Fjöldaskráning varðstjóra hefur verið uppfærð fyrir %1$s"
+}

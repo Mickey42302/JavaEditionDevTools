@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "mi weka ilo awen pi warden tan jan %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "mi weka ilo awen pi warden tan %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "mi ante ilo awen pi warden tan jan %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "mi ante ilo awen pi warden tan %1$s"
+}

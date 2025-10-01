@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple" : "Várrejeaddji spawn-čuovvu lea sihkkojuvvon %1$s spealli várás",
+  "commands.warden_spawn_tracker.clear.success.single" : "Várrejeaddji spawn-čuovvu lea buhtistuvvon %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple" : "Várrejeaddji njuovvančuovvu lea ođasmahttojuvvon %1$s spealli várás",
+  "commands.warden_spawn_tracker.set.success.single" : "Várrejeaddji njuovvančuovvu lea ođasmahttojuvvon %1$s"
+}

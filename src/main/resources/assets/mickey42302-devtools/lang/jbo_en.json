@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "lo bartu se cmalu be'o lo warden cu se jgari gi'e se klama lo ka ce'u cu se jgari gi'e se klama lo ka ce'u be li %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "lo bartu se cmalu be'o lo warden cu se jgari gi'e se klama lo ka ce'u be li %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "lo bartu se cmalu be'o lo warden cu se jgari gi'e se klama lo ka ce'u cu se jgari gi'e se klama lo ka ce'u be li %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "lo bartu se cmalu be'o lo warden cu se jgari gi'e se klama lo ka ce'u be li %1$s"
+}

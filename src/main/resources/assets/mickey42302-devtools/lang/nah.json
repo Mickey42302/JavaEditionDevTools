@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Nopa warden spawn tracker ya kiixpolojtokej para %1$s tlatsotsonani",
+  "commands.warden_spawn_tracker.clear.success.single": "Nopa warden spawn tracker ya kiixtsaktokej ika %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Nopa warden spawn tracker ya kiyektlalijtokej para %1$s tlatsotsonani",
+  "commands.warden_spawn_tracker.set.success.single": "Nopa warden spawn tracker ya kiyektlalijtokej ika %1$s"
+}

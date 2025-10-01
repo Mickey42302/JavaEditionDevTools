@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Праћење појављивања чувара је обрисано за %1$s играча",
+  "commands.warden_spawn_tracker.clear.success.single": "Праћење појављивања чувара је обрисано за %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Праћење појављивања чувара је ажурирано за %1$s играча",
+  "commands.warden_spawn_tracker.set.success.single": "Праћење појављивања чувара је ажурирано за %1$s"
+}

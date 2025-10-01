@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Licznik pojawiania się strażników został wyczyszczony dla %1$s graczy",
+  "commands.warden_spawn_tracker.clear.success.single": "Licznik pojawiania się strażników został wyczyszczony dla %1$s graczy",
+  "commands.warden_spawn_tracker.set.success.multiple": "Licznik pojawiania się strażników został zaktualizowany dla %1$s graczy",
+  "commands.warden_spawn_tracker.set.success.single": "Licznik pojawiania się strażników został zaktualizowany dla %1$s graczy"
+}

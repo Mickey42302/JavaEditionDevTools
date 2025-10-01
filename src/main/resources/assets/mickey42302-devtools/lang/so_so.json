@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Waardiyaha spawn tracker waxa loo fasaxay %1$s ciyaartoyda",
+  "commands.warden_spawn_tracker.clear.success.single": "Waardiyaha spawn tracker waa la nadiifiyey %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Waardiyaha spawn tracker waxaa loo cusboonaysiiyay %1$s ciyaartoyda",
+  "commands.warden_spawn_tracker.set.success.single": "Waardiyaha spawn tracker waxa lagu cusboonaysiiyay %1$s"
+}

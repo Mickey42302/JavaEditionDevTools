@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Vårdnaspånj-spåraren är klårad för %1$s speler",
+  "commands.warden_spawn_tracker.clear.success.single": "Vårdnaspånj-spåraren är klårad för %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Vårdnaspånj-spåraren är uppdaterad för %1$s speler",
+  "commands.warden_spawn_tracker.set.success.single": "Vårdnaspånj-spåraren är uppdaterad för %1$s"
+}

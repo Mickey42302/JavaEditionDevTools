@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s ಆಟಗಾರರಿಗೆ ವಾರ್ಡನ್ ಸ್ಪಾನ್ ಟ್ರ್ಯಾಕರ್ ಅನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿದೆ",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s ಗಾಗಿ ವಾರ್ಡನ್ ಸ್ಪಾನ್ ಟ್ರ್ಯಾಕರ್ ಅನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿದೆ",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s ಆಟಗಾರರಿಗೆ ವಾರ್ಡನ್ ಸ್ಪಾನ್ ಟ್ರ್ಯಾಕರ್ ಅನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s ಗಾಗಿ ವಾರ್ಡನ್ ಸ್ಪಾನ್ ಟ್ರ್ಯಾಕರ್ ಅನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ"
+}

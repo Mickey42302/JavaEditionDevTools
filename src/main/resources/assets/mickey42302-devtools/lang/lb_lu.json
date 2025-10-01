@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Den Warden Spawn Tracker gouf fir %1$s Spiller geläscht",
+  "commands.warden_spawn_tracker.clear.success.single": "Den Warden Spawn Tracker gouf fir %1$s Spiller geläscht",
+  "commands.warden_spawn_tracker.set.success.multiple": "Den Warden Spawn Tracker gouf fir %1$s Spiller aktualiséiert",
+  "commands.warden_spawn_tracker.set.success.single": "Den Warden Spawn Tracker gouf fir %1$s aktualiséiert"
+}

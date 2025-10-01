@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "A ti pa olutọpa spawn kuro fun %1$s awọn ẹrọ orin",
+  "commands.warden_spawn_tracker.clear.success.single": "A ti pa olutọpa spawn kuro fun %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Olutọpa olutọpa ti ni imudojuiwọn fun awọn ẹrọ orin %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "Olutọpa olutọpa ti ni imudojuiwọn fun %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Сакчы карак трекеры %1$s уенчылары өчен чистартылды",
+  "commands.warden_spawn_tracker.clear.success.single": "Сакчы карак трекеры %1$s өчен чистартылды",
+  "commands.warden_spawn_tracker.set.success.multiple": "Сакчы карак трекеры %1$s уенчылары өчен яңартылды",
+  "commands.warden_spawn_tracker.set.success.single": "Сакчы карак трекеры %1$s өчен яңартылды."
+}

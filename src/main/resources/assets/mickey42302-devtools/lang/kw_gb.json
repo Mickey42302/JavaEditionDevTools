@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Y treylyans spawnyans an warden a vyth ow kelwel rag %1$s chasow",
+  "commands.warden_spawn_tracker.clear.success.single": "Y treylyans spawnyans an warden a vyth ow kelwel rag %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Y treylyans spawnyans an warden a vyth ow hwirya rag %1$s chasow",
+  "commands.warden_spawn_tracker.set.success.single": "Y treylyans spawnyans an warden a vyth ow hwirya rag %1$s"
+}

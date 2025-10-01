@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "oh HI tEH Wardin sporn Trakr haZ bin cleerd fr mowed %1$s playerZ PLZ?",
+  "commands.warden_spawn_tracker.clear.success.single": "tEh wardin sporn trakr haz biN CLEERD fr mowed %1$s k?",
+  "commands.warden_spawn_tracker.set.success.multiple": "teh wardin sporn trakr haz bin uPDATD FR MOWED %1$s playerz k?",
+  "commands.warden_spawn_tracker.set.success.single": "teh wardin sPORN trakr HAz bin Updatd fr mowed %1$s"
+}

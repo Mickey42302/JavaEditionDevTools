@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "მცველის სპინების ტრეკერი გასუფთავებულია %1$s მოთამაშისთვის",
+  "commands.warden_spawn_tracker.clear.success.single": "მცველის სპინების ტრეკერი გასუფთავებულია %1$s მოთამაშისთვის",
+  "commands.warden_spawn_tracker.set.success.multiple": "მცველის სპინების ტრეკერი განახლებულია %1$s მოთამაშისთვის",
+  "commands.warden_spawn_tracker.set.success.single": "მცველის სპინების ტრეკერი განახლებულია %1$s მოთამაშისთვის"
+}
