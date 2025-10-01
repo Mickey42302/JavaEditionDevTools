@@ -17,21 +17,14 @@
   "entrypoints": {
     "main": [
       "com.mickey42302.devtools.DevToolsInit"
-    ],
-    "client": [
-      "com.mickey42302.devtools.DevToolsClient"
     ]
   },
   "mixins": [
-    "mickey42302-devtools.mixins.json",
-    {
-      "config": "mickey42302-devtools.client.mixins.json",
-      "environment": "client"
-    }
+    "mickey42302-devtools.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.16.10",
-    "minecraft": "~1.21.8",
+    "minecraft": "~1.21.9",
     "java": ">=21",
     "fabric-api": "*"
   }

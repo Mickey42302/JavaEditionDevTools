@@ -3,10 +3,6 @@
   "package": "com.mickey42302.devtools.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "DebugInfoSenderMixin",
-    "MobEntityAccessor",
-    "PathMixin",
-    "ResourcePackSendS2CPacketMixin",
     "SharedConstantsMixin"
   ],
   "injectors": {
