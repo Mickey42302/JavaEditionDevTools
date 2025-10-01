@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "A játékos őrének megjelenési nyomkövetője törölve lett %1$s számára",
+  "commands.warden_spawn_tracker.clear.success.single": "A játékos őrének megjelenési nyomkövetője törölve lett %1$s számára",
+  "commands.warden_spawn_tracker.set.success.multiple": "A játékos őrének megjelenési nyomkövetője frissítve lett %1$s számára",
+  "commands.warden_spawn_tracker.set.success.single": "A játékos őrének megjelenési nyomkövetője frissítve lett %1$s számára"
+}

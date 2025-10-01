@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Ua hoʻomaʻemaʻe ʻia ka mea hoʻomaʻemaʻe i nā mea pāʻani no %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "Ua hoʻomaʻemaʻe ʻia ka mea hoʻomaʻemaʻe i ke kahu hānai no %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Ua hōʻano hou ʻia ka mea hoʻokele waden spawn no %1$s mea pāʻani",
+  "commands.warden_spawn_tracker.set.success.single": "Ua hōʻano hou ʻia ka mea hoʻomaʻamaʻa kahu hānai no %1$s"
+}

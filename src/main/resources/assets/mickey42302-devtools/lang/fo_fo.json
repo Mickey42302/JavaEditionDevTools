@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Warden spawn tracker er ruddaður fyri %1$s spælarar",
+  "commands.warden_spawn_tracker.clear.success.single": "Warden gýtingarsporingin er ruddaður fyri %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Warden gýtingarsporarin er dagførdur fyri %1$s spælarar",
+  "commands.warden_spawn_tracker.set.success.single": "Warden gýtingarsporarin er dagførdur fyri %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "De warden spawn tracker is wiske foar %1$s spilers",
+  "commands.warden_spawn_tracker.clear.success.single": "De warden spawn tracker is wiske foar %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "De warden spawn tracker is bywurke foar %1$s spilers",
+  "commands.warden_spawn_tracker.set.success.single": "De warden spawn tracker is bywurke foar %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "O rastreador de aparicións de gardas foi limpo para %1$s xogadores",
+  "commands.warden_spawn_tracker.clear.success.single": "O rastreador de aparicións de gardas foi limpo para %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "O rastreador de aparicións de gardas foi actualizado para %1$s xogadores",
+  "commands.warden_spawn_tracker.set.success.single": "O rastreador de aparicións de gardas foi actualizado para %1$s"
+}

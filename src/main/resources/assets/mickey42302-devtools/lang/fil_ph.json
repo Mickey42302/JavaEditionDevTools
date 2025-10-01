@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Na-clear ang warden spawn tracker para sa %1$s na mga manlalaro",
+  "commands.warden_spawn_tracker.clear.success.single": "Na-clear ang warden spawn tracker para sa %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Na-update ang warden spawn tracker para sa %1$s na manlalaro",
+  "commands.warden_spawn_tracker.set.success.single": "Na-update ang warden spawn tracker para sa %1$s"
+}

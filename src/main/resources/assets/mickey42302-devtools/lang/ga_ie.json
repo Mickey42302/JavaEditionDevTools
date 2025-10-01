@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Tá an rianaitheoir sceitheanna bardais glanta do %1$s imreoirí",
+  "commands.warden_spawn_tracker.clear.success.single": "Tá an rianaitheoir sceitheanna bardais glanta do %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Tá an rianaitheoir sceitheanna bardais nuashonraithe do %1$s imreoirí",
+  "commands.warden_spawn_tracker.set.success.single": "Tá an rianaitheoir sceitheanna bardais nuashonraithe do %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "The warden spawn track'r hast been clear'd f'r %1$s playeth'rs",
+  "commands.warden_spawn_tracker.clear.success.single": "The warden spawn track'r hast been clear'd f'r %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "The warden spawn track'r hast been updat'd f'r %1$s playeth'rs",
+  "commands.warden_spawn_tracker.set.success.single": "The warden spawn track'r hast been updat'd f'r %1$s"
+}

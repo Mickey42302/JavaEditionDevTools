@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "E kpochapụrụ onye na-elekọta ụlọ ọrụ spawn maka ndị egwuregwu %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "E kpochapụrụ onye na-elekọta ụlọ ọrụ spawn maka %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Emelitela onye na-ahụ maka spawn track maka ndị egwuregwu %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "Emelitere onye nlekọta spawn tracker maka %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s खिलाड़ियों के लिए वार्डन स्पॉन ट्रैकर साफ़ कर दिया गया है",
+  "commands.warden_spawn_tracker.clear.success.single": "%1$s के लिए वार्डन स्पॉन ट्रैकर साफ़ कर दिया गया है",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s खिलाड़ियों के लिए वार्डन स्पॉन ट्रैकर अपडेट कर दिया गया है",
+  "commands.warden_spawn_tracker.set.success.single": "%1$s के लिए वार्डन स्पॉन ट्रैकर अपडेट कर दिया गया है"
+}

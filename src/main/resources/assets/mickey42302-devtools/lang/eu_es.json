@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Zaindarien agerpenen jarraitzailea %1$s jokalarirentzat garbitu da",
+  "commands.warden_spawn_tracker.clear.success.single": "Zaindarien agerpenen jarraitzailea %1$s jokalarirentzat garbitu da",
+  "commands.warden_spawn_tracker.set.success.multiple": "Zaindarien agerpenen jarraitzailea %1$s jokalarirentzat eguneratu da",
+  "commands.warden_spawn_tracker.set.success.single": "Zaindarien agerpenen jarraitzailea %1$s jokalarirentzat eguneratu da"
+}

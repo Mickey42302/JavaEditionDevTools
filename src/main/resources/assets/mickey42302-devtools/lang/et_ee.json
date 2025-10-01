@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Valvuri kudemise jälgija on %1$s mängija jaoks tühjendatud",
+  "commands.warden_spawn_tracker.clear.success.single": "Valvuri kudemise jälgija on %1$s mängija jaoks tühjendatud",
+  "commands.warden_spawn_tracker.set.success.multiple": "Valvuri kudemise jälgija on %1$s mängija jaoks uuendatud",
+  "commands.warden_spawn_tracker.set.success.single": "Valvuri kudemise jälgija on %1$s mängija jaoks uuendatud"
+}

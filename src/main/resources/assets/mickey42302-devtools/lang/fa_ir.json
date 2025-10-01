@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "ردیاب تخم‌ریزی نگهبان برای %1$s بازیکن پاک شده است",
+  "commands.warden_spawn_tracker.clear.success.single": "ردیاب تخم‌ریزی نگهبان برای %1$s بازیکن پاک شده است",
+  "commands.warden_spawn_tracker.set.success.multiple": "ردیاب تخم‌ریزی نگهبان برای %1$s بازیکن به‌روزرسانی شده است",
+  "commands.warden_spawn_tracker.set.success.single": "ردیاب تخم‌ریزی نگهبان برای %1$s بازیکن به‌روزرسانی شده است"
+}

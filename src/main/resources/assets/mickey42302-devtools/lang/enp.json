@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "The warden spawn tracker has been cleared for %1$s players",
+  "commands.warden_spawn_tracker.clear.success.single": "The warden spawn tracker has been cleared for %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "The warden spawn tracker has been updated for %1$s players",
+  "commands.warden_spawn_tracker.set.success.single": "The warden spawn tracker has been updated for %1$s"
+}

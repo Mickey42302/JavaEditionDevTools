@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Pelacak kemunculan sipir telah dihapus untuk %1$s pemain",
+  "commands.warden_spawn_tracker.clear.success.single": "Pelacak kemunculan sipir telah dihapus untuk %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Pelacak kemunculan sipir telah diperbarui untuk %1$s pemain",
+  "commands.warden_spawn_tracker.set.success.single": "Pelacak kemunculan sipir telah diperbarui untuk %1$s"
+}

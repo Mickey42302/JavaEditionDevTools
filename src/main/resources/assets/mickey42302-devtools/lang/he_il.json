@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "מעקב אחר תוצאות החיפוש של הסוהרים נוקה עבור %1$s שחקנים",
+  "commands.warden_spawn_tracker.clear.success.single": "מעקב אחר תוצאות החיפוש של הסוהרים נוקה עבור %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "מעקב אחר תוצאות החיפוש של הסוהרים עודכן עבור %1$s שחקנים",
+  "commands.warden_spawn_tracker.set.success.single": "מעקב אחר תוצאות החיפוש של הסוהרים עודכן עבור %1$s"
+}

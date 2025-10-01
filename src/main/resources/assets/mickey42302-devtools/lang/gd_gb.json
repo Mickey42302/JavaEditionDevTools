@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Chaidh tracaire sìolachaidh a’ gheàrd a ghlanadh airson %1$s cluicheadairean",
+  "commands.warden_spawn_tracker.clear.success.single": "Chaidh tracaire sìolachaidh a’ gheàrd a ghlanadh airson %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Chaidh tracaire sìolachaidh a’ gheàrd ùrachadh airson %1$s cluicheadairean",
+  "commands.warden_spawn_tracker.set.success.single": "Chaidh tracaire sìolachaidh a’ gheàrd ùrachadh airson %1$s"
+}

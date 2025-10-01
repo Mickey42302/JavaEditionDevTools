@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Il traçadôr di spawn dal guardian al è stât cancelât pai zuiadôrs di %1$s",
+  "commands.warden_spawn_tracker.clear.success.single": "Il traçadôr di spawn dal guardian al è stât cancelât par %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Il traçadôr di spawn dal guardian al è stât agjiornât pai zuiadôrs di %1$s",
+  "commands.warden_spawn_tracker.set.success.single": "Il traçadôr di spawn dal guardian al è stât agjiornât par %1$s"
+}

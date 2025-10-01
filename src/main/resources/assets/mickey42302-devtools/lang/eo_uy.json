@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "La spurilo de apero de gardistoj estas malplenigita por %1$s ludantoj",
+  "commands.warden_spawn_tracker.clear.success.single": "La spurilo de apero de gardistoj estas malplenigita por %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "La spurilo de apero de gardistoj estas ĝisdatigita por %1$s ludantoj",
+  "commands.warden_spawn_tracker.set.success.single": "La spurilo de apero de gardistoj estas ĝisdatigita por %1$s"
+}
