@@ -20,6 +20,5 @@ public class DevToolsInit implements ModInitializer {
         LOGGER.info("Loading the development tools patch...");
 
         CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> ChaseCommand.register(dispatcher));
-
     }
 }
