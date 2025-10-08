@@ -1,8 +1,5 @@
 package com.mickey42302.devtools;
 
-import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
-import net.minecraft.server.command.ChaseCommand;
-
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -18,7 +15,5 @@ public class DevToolsInit implements ModInitializer {
     public void onInitialize() {
 
         LOGGER.info("Loading the development tools patch...");
-
-        CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> ChaseCommand.register(dispatcher));
     }
 }
