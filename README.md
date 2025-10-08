@@ -5,6 +5,8 @@ This mod is a rewrite of the original Dev Tools Unlocker mod (https://modrinth.c
 
 ## Developer Commands
 
+*Note: The "/chase" command is not available by default, even on development builds of the game. If you wish to enable this feature, please use the "CHASE_COMMAND" debug property (**Learn more:** https://www.youtube.com/watch?v=a2dVp0A3uwM).*
+
 The following commands are available on both singleplayer and multiplayer:
 
 • /debugmobspawning (**Learn more:** https://youtube.com/watch?v=ZWrxKFf1Xx4)
@@ -25,15 +27,7 @@ The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
 
-*Tip: The developer commands can be enabled on a vanilla server using the "DEV_COMMANDS" debug property.*
-
-## Disabled Commands
-
-The following commands are available on both singleplayer and multiplayer:
-
-• /chase (**Learn more:** https://www.youtube.com/watch?v=a2dVp0A3uwM)
-
-*Tip: The "/chase" command can be enabled on a vanilla server using the "CHASE_COMMAND" debug property.*
+*Tip: The developer commands can be enabled on vanilla installations using the "DEV_COMMANDS" debug property.*
 
 ## Sub-commands
 
