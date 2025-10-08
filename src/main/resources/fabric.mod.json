@@ -14,11 +14,6 @@
   "license": "CC0-1.0",
   "icon": "assets/mickey42302-devtools/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.mickey42302.devtools.DevToolsInit"
-    ]
-  },
   "mixins": [
     "mickey42302-devtools.mixins.json"
   ],
