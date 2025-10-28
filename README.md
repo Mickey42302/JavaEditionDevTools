@@ -57,7 +57,7 @@ For example, to place a structure that has been exported to an SNBT file named "
 
 The "Create Test World" button on the title screen can be used to quickly generate a world with settings that are designed to make testing easier.
 
-For these worlds, the superflat preset is set to "minecraft:bedrock,3*minecraft:stone,116*minecraft:sandstone;minecraft:desert". The "doMobSpawning", "doDaylightCycle", and "doWeatherCycle" game rules are also set to "false".
+For these worlds, the superflat preset is set to "minecraft:bedrock,3\*minecraft:stone,116\*minecraft:sandstone;minecraft:desert". The "doMobSpawning", "doDaylightCycle", and "doWeatherCycle" game rules are also set to "false".
 
 ## Logs
 
