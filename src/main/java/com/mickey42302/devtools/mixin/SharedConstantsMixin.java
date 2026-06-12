@@ -12,10 +12,10 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public abstract class SharedConstantsMixin {
     @Shadow
     @Mutable
-    public static boolean isDevelopment;
+    public static boolean IS_RUNNING_IN_IDE;
 
     @Inject(method = {"<clinit>"}, at = {@At("TAIL")})
     private static void devtools$clinit(CallbackInfo ci) {
-        isDevelopment = true;
+        IS_RUNNING_IN_IDE = true;
     }
 }
