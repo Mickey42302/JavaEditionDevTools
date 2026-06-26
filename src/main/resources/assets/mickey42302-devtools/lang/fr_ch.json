@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Le suivi d'apparition des gardiens a été effacé pour %1$s joueurs",
+  "commands.warden_spawn_tracker.clear.success.single": "Le suivi d'apparition des gardiens a été effacé pour %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Le suivi d'apparition des gardiens a été mis à jour pour %1$s joueurs",
+  "commands.warden_spawn_tracker.set.success.single": "Le suivi d'apparition des gardiens a été mis à jour pour %1$s"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Qo'riqchining paydo bo'lish kuzatuvchisi %1$s o'yinchisi uchun tozalandi",
+  "commands.warden_spawn_tracker.clear.success.single": "Qo'riqchining paydo bo'lish kuzatuvchisi %1$s uchun tozalandi",
+  "commands.warden_spawn_tracker.set.success.multiple": "Qo'riqchining paydo bo'lish kuzatuvchisi %1$s o'yinchisi uchun yangilandi",
+  "commands.warden_spawn_tracker.set.success.single": "Qo'riqchining paydo bo'lish kuzatuvchisi %1$s uchun yangilandi"
+}

@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "%1$s вылякансем валли warden spawn трекерне тасатнӑ",
+  "commands.warden_spawn_tracker.clear.success.single": "Варден спаун-трекерне %1$s валли тасатнӑ",
+  "commands.warden_spawn_tracker.set.success.multiple": "%1$s вылякансем валли хуралҫӑ ҫуратмалли трекер ҫӗнетнӗ",
+  "commands.warden_spawn_tracker.set.success.single": "Варден спаун трекерне %1$s валли ҫӗнетнӗ"
+}

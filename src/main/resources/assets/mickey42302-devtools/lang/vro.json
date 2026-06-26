@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "Wardeni ilmumisku jälgijat on tühjendatud %1$s mängija jaoks",
+  "commands.warden_spawn_tracker.clear.success.single": "Wardeni ilmumisku jälgijat on tühjendatud %1$s jaoks",
+  "commands.warden_spawn_tracker.set.success.multiple": "Wardeni ilmumisku jälgijat on uuendatud %1$s mängija jaoks",
+  "commands.warden_spawn_tracker.set.success.single": "Wardeni ilmumisku jälgijat on uuendatud %1$s jaoks"
+}

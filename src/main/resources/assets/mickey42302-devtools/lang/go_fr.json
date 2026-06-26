@@ -1,0 +1,6 @@
+{
+  "commands.warden_spawn_tracker.clear.success.multiple": "L'atour d'ovèrture d'o wardèn a bèi vuidé pou %1$s d'jous",
+  "commands.warden_spawn_tracker.clear.success.single": "L'atour d'ovèrture d'o wardèn a bèi vuidé pou %1$s",
+  "commands.warden_spawn_tracker.set.success.multiple": "L'atour d'ovèrture d'o wardèn a bèi mofé pou %1$s d'jous",
+  "commands.warden_spawn_tracker.set.success.single": "L'atour d'ovèrture d'o wardèn a bèi mofé pou %1$s"
+}
