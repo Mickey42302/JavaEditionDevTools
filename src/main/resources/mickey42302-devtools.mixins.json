@@ -3,7 +3,11 @@
   "package": "com.mickey42302.devtools.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
-    "SharedConstantsMixin"
+    "ChaseCommandMixin",
+    "SharedConstantsMixin",
+    "StructureTemplateManagerMixin",
+    "TemplatePathFactoryMixin",
+    "TestInstanceBlockEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
