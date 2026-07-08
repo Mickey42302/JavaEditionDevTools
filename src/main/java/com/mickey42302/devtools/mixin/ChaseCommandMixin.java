@@ -20,7 +20,7 @@ public class ChaseCommandMixin {
     )
     private static LiteralArgumentBuilder<CommandSourceStack> fixSecurityFlaw(String literal) {
         if ("chase".equals(literal)) {
-            return Commands.literal(literal).requires(Commands.hasPermission(Commands.LEVEL_ADMINS));
+            return Commands.literal(literal).requires(Commands.hasPermission(Commands.LEVEL_OWNERS));
         }
         return Commands.literal(literal);
     }
