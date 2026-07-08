@@ -61,7 +61,7 @@ For example, to place a structure that has been exported to an SNBT file named "
 
 ## Test Worlds
 
-The "Create Test World" button on the title screen can be used to quickly generate a world with settings that are designed to make testing easier.
+The "TW" button on the title screen can be used to quickly generate a world with settings that are designed to make testing easier.
 
 ## Logs
 
