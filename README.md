@@ -33,7 +33,7 @@ The following commands are only available on multiplayer:
 
 By default, the "/chase" command has a security flaw which allows it to be used by any player. This is a problem, as any player with malicious intentions can abuse the tool. The issue was reported to Mojang, but they refused to address it (https://imgur.com/a/chase-exploit-jXYUTD0).
 
-This mod adds a patch which restricts it to operators with permission level 3 or higher. However, if you have a permissions plugin, you can still use the "minecraft.command.chase" permission node to customise who has access to the tool.
+This mod adds a patch which restricts it to operators with permission level 4. However, if you have a permissions plugin, you can still use the "minecraft.command.chase" permission node to customise who has access to the tool.
 
 ## Sub-commands
 
