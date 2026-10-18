@@ -1,6 +1,0 @@
-{
-  "commands.warden_spawn_tracker.clear.success.multiple": "Gardiyan ortaya çıkış izleyicisi %1$s oyuncu için temizlendi",
-  "commands.warden_spawn_tracker.clear.success.single": "Gardiyan ortaya çıkış izleyicisi %1$s oyuncu için temizlendi",
-  "commands.warden_spawn_tracker.set.success.multiple": "Gardiyan ortaya çıkış izleyicisi %1$s oyuncu için güncellendi",
-  "commands.warden_spawn_tracker.set.success.single": "Gardiyan ortaya çıkış izleyicisi %1$s oyuncu için güncellendi"
-}

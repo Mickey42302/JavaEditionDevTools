@@ -1,6 +1,0 @@
-{
-  "commands.warden_spawn_tracker.clear.success.multiple": "ڤنججق ڤاڤن تندا واردين تله دكلواركن اونتوق ڤماين %1$s",
-  "commands.warden_spawn_tracker.clear.success.single": "ڤنججق ڤاڤن تندا واردين تله دكلواركن اونتوق %1$s",
-  "commands.warden_spawn_tracker.set.success.multiple": "ڤنججق ڤاڤن تندا واردين تله دكمسكيني اونتوق ڤماين %1$s",
-  "commands.warden_spawn_tracker.set.success.single" : "ڤنججق ڤاڤن تندا واردين تله دكمسكيني اونتوق %1$s"
-}

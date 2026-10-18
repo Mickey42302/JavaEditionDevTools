@@ -1,6 +1,0 @@
-{
-  "commands.warden_spawn_tracker.clear.success.multiple": "El rastreador de aparición de guardianes se ha borrado para %1$s jugadores",
-  "commands.warden_spawn_tracker.clear.success.single": "El rastreador de aparición de guardianes se ha borrado para %1$s",
-  "commands.warden_spawn_tracker.set.success.multiple": "El rastreador de aparición de guardianes se ha actualizado para %1$s jugadores",
-  "commands.warden_spawn_tracker.set.success.single": "El rastreador de aparición de guardianes se ha actualizado para %1$s"
-}

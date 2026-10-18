@@ -1,6 +1,0 @@
-{
-  "commands.warden_spawn_tracker.clear.success.multiple": "S'ha eliminat el rastrejador d'aparició del Warden per a %1$s jugadors",
-  "commands.warden_spawn_tracker.clear.success.single": "S'ha eliminat el rastrejador d'aparició del Warden per a %1$s",
-  "commands.warden_spawn_tracker.set.success.multiple": "S'ha actualitzat el rastrejador d'aparició del Warden per a %1$s jugadors",
-  "commands.warden_spawn_tracker.set.success.single": "S'ha actualitzat el rastrejador d'aparició del Warden per a %1$s"
-}

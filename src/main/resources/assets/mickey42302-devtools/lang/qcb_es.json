@@ -1,6 +1,0 @@
-{
-  "commands.warden_spawn_tracker.clear.success.multiple": "El rastreador de aparición del warden s'ha limpiau pa %1$s xugadores",
-  "commands.warden_spawn_tracker.clear.success.single": "El rastreador de aparición del warden s'ha limpiau pa %1$s",
-  "commands.warden_spawn_tracker.set.success.multiple": "El rastreador de aparición del warden s'ha actualizau pa %1$s xugadores",
-  "commands.warden_spawn_tracker.set.success.single": "El rastreador de aparición del warden s'ha actualizau pa %1$s"
-}
