@@ -21,19 +21,11 @@ The following commands are available on both singleplayer and multiplayer:
 
 • /warden_spawn_tracker
 
-I've also made the "/warden_spawn_tracker" command user-friendly by adding the missing translation strings.
-
 The following commands are only available on multiplayer:
 
 • /debugconfig (**Warning:** This command will softlock the game if it is not used properly!)
 
 *Tip: The developer commands can be enabled on vanilla installations using the "DEV_COMMANDS" debug property.*
-
-## Security
-
-By default, the "/chase" command has a security flaw which allows it to be used by any player. This is a problem, as any player with malicious intentions can abuse the tool. The issue was reported to Mojang, but they refused to address it (https://imgur.com/a/chase-exploit-jXYUTD0).
-
-This mod adds a patch which restricts it to operators with permission level 4. However, if you have a permissions plugin, you can still use the "minecraft.command.chase" permission node to customise who has access to the tool.
 
 ## Sub-commands
 
