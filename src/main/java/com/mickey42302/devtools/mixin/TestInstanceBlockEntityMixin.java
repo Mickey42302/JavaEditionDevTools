@@ -26,7 +26,7 @@ public class TestInstanceBlockEntityMixin {
 
     @Inject(method = "export", at = @At("HEAD"), cancellable = true)
     private static void restoreExportFunctionality(ServerLevel level, Identifier structureId, Consumer<Component> feedbackOutput, CallbackInfoReturnable<Boolean> cir) {
-        StructureTemplateManager structureManager = level.getStructureManager();
+        StructureTemplateManager structureManager = level.getStructureTemplateManager();
         Optional<StructureTemplate> structureTemplate = structureManager.get(structureId);
 
         if (structureTemplate.isEmpty()) {
